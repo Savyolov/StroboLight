@@ -1,2 +1,2 @@
 # StroboLight
-![ScreenShot](https://raw.github.com/{Savyolov}/{StroboLight}/{branch}/{path})
+![ScreenShot](https://raw.github.com/{Savyolov}/{StroboLight}/{st.jpg})
