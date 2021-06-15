@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StroboLight</string>
+    <string name="frequency">Frequency</string>
+    <string name="close">Close</string>
+    <string name="run">Run!</string>
+    <string name="savyolov">Savyolov</string>
+    <string name="milliseconds">milliseconds</string>
+</resources>
